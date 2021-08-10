@@ -1,2 +1,2 @@
-# react-hooks-frontendmasters
+# react-hooks
 Created with CodeSandbox
